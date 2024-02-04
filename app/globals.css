@@ -80,6 +80,9 @@
       "rlig" 1,
       "calt" 1;
   }
+  a {
+    @apply font-bold underline;
+  }
   .background-gradient {
     background-color: #fff;
     background-image: radial-gradient(

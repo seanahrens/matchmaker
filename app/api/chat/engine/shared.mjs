@@ -1,6 +1,6 @@
 export const STORAGE_DIR = "./data";
-export const CHUNK_SIZE = 512;
-export const CHUNK_OVERLAP = 20;
+export const CHUNK_SIZE = 250;
+export const CHUNK_OVERLAP = 125;
 
 const REQUIRED_ENV_VARS = [
   // "MONGO_URI",

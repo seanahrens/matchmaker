@@ -1,0 +1,835 @@
+    {
+        "name": "Anup Mantri",
+        "title": "Back-end developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "machine-learning",
+            "big-data"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ],
+        "bio": "I have been working as a software engineer for >15 yrs, mainly backend and ML. Looking to build and ship something cool.",
+        "url": "https://devpost.com/anup-mantri",
+        "img": "https://www.gravatar.com/avatar/69e10ae0a0ccc0a5b3734a65d7377a95?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+    },
+    {
+        "name": "Oliver Giesecke",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "react"
+        ],
+        "interests": [
+            "Enterprise",
+            "Fintech"
+        ]
+    },
+    {
+        "name": "Avani Gadani",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "ml",
+            "ai",
+            "storage",
+            "systems"
+        ],
+        "interests": [
+            "Beginner Friendly",
+            "Cybersecurity",
+            "Education",
+            "Low/No Code",
+            "Machine Learning/AI",
+            "Music/Art",
+            "Open Ended",
+            "Quantum",
+            "Social Good"
+        ]
+    },
+    {
+        "name": "Fernando Ljung",
+        "title": "Machine learning and back end engineer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "machine-learning"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Tanay Sood",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "sql",
+            "machine-learning"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Paul Baclace",
+        "title": "Product manager",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "2 achievements",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "java",
+            "hadoop",
+            "linux",
+            "amazon-web-services",
+            "devops",
+            "writing"
+        ],
+        "interests": [
+            "DevOps",
+            "Machine Learning/AI",
+            "Music/Art"
+        ],
+        "bio": "Idea: for RAG is to structurally analyze fiction. It would be a tool for fiction writers to analyze stories, dialogue, plot, and story arc. Me: I co-founded UnravelData.com, worked on deep learning projects at Internet Archive, do AI product management. Looking for: a python coder interested in text extraction and search engine results re-ranking, plus a UI developer.",
+        "url": "https://devpost.com/paul-baclace",
+        "img": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-100-b164b29ca37cbce6b6dbcf4d61d40ba7a3081dfd121a32e2a773eb8f018f0a1f.png"
+    },
+    {
+        "name": "Rahul Bhoyar",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "python",
+            "python-package-index",
+            "data",
+            "machine-learning",
+            "natural-language-processing",
+            "generative-ai"
+        ],
+        "interests": [
+            "Beginner Friendly"
+        ]
+    },
+    {
+        "name": "Morris Hsu",
+        "title": "Back-end developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "python",
+            "c++",
+            "javascript"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Luka \u010cubrilo",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "c",
+            "c++",
+            "python",
+            "java",
+            "gpt",
+            "llm",
+            "sql",
+            "tensorflow",
+            "langchain",
+            "rag",
+            "html5",
+            "css3",
+            "pandas",
+            "qt",
+            "pyqt",
+            "javascript"
+        ],
+        "interests": [
+            "Beginner Friendly",
+            "DevOps",
+            "Education",
+            "Gaming",
+            "IoT",
+            "Machine Learning/AI",
+            "Quantum",
+            "Social Good"
+        ],
+        "bio": "Chameleon - can work on anything. Currently developing my own LLM-powered product. Programming for 8 years in C++, Python and a few others. Worked on a Data Science solution in Slovenia's leading research institute. I am a final-year CS student, and recently started going into the world of LLMs.",
+        "url": "https://devpost.com/lcubrilo01",
+        "img": "https://media.licdn.com/dms/image/C4D03AQGOjK0cqHEmVg/profile-displayphoto-shrink_800_800/0/1658268764150?e=1711584000&height=180&t=p7os1DK4U7mjEnwkubC1mQzmM1VyETiHL6AOPfZq_1o&v=beta&width=180"
+    },
+     {
+        "name": "Carmen Cruzado",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "python",
+            "docker",
+            "langchain",
+            "llm",
+            "bash",
+            "vim"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Sean Durkin",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "c",
+            "typescript",
+            "pytorch"
+        ],
+        "interests": [
+            "AR/VR",
+            "Cybersecurity",
+            "IoT",
+            "Low/No Code",
+            "Machine Learning/AI",
+            "Social Good"
+        ],
+        "bio": "Hi, I'm Sean. Interested in agent-based development for cybersecurity and consumer applications. Founder, Mastiff AI. Full stack developer, prefer Python, C for serverside, Typescript for UI/UX. Product management experience.",
+        "url": "https://devpost.com/sdurkin2011",
+        "img": "https://media.licdn.com/dms/image/D5603AQE9iOKY9JrfTQ/profile-displayphoto-shrink_800_800/0/1705349857787?e=1711584000&height=180&t=oQYiXd_NZLSH27_V-losmehTNlaGdyNzh-TF6kpxm9s&v=beta&width=180"
+    },
+    {
+        "name": "KY HEON",
+        "title": "Full-stack developer",
+        "projects": "1 project",
+        "followers": "1 follower",
+        "achievements": "3 achievements",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "react",
+            "node.js",
+            "express.js",
+            "flask"
+        ],
+        "interests": [
+            "Design",
+            "Machine Learning/AI",
+            "Robotic Process Automation"
+        ],
+        "bio": "I'm Ky, an entry level developer interested in AI and Robotics. I am familiar with React and ExpressJS frameworks, and have some experience with building products using the OpenAI API. I am primarily interested in meeting cool people and learning more about the technology ecosystem being developed around LLM/MMM's.",
+        "url": "https://devpost.com/kyheon12",
+        "img": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-100-b164b29ca37cbce6b6dbcf4d61d40ba7a3081dfd121a32e2a773eb8f018f0a1f.png"
+    },
+    {
+        "name": "Cesar William",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team"
+    },
+    {
+        "name": "Muhammad Hassan",
+        "title": "AI Engineer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "langchain",
+            "pytorch",
+            "llm",
+            "rag",
+            "huggingface",
+            "python",
+            "generativeai"
+        ],
+        "interests": [
+            "E-commerce/Retail",
+            "Education",
+            "Fintech",
+            "Machine Learning/AI"
+        ],
+        "bio": "My name is Muhammad Hassan, and I hold a Bachelor's degree in Computer Science. I bring six months of valuable experience as a Machine Learning Trainer in an educational institute. Currently, I am dedicated to serving as an AI Engineer. I am actively seeking a collaborative opportunity to contribute my skills and expertise as a teammate in a hackathon.",
+        "url": "https://devpost.com/m-hassan-nftp",
+        "img": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-100-b164b29ca37cbce6b6dbcf4d61d40ba7a3081dfd121a32e2a773eb8f018f0a1f.png"
+    },
+    {
+        "name": "Robert H Lee",
+        "title": "Business",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "python"
+        ],
+        "interests": [
+            "Cybersecurity",
+            "Health",
+            "Lifehacks",
+            "Low/No Code",
+            "Machine Learning/AI",
+            "Productivity",
+            "Quantum",
+            "Social Good"
+        ]
+    },
+    {
+        "name": "Georgio Stoev",
+        "title": "Product manager",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "ai",
+            "governance"
+        ],
+        "interests": [
+            "Databases",
+            "Enterprise",
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Kyel Steensma",
+        "title": "Business",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "dataanalytics",
+            "chemicalengineering"
+        ],
+        "interests": [
+            "Beginner Friendly",
+            "Education",
+            "Machine Learning/AI",
+            "Quantum"
+        ],
+        "bio": "Me and a friend (co-founder) are looking to build AI which interprets reads, interacts with and draws engineering diagrams (chemical, civil, electrical engineering etc.), in order to massively cut down time spent in large engineering projects.",
+        "url": "https://devpost.com/kyel-steensma",
+        "img": "https://lh3.googleusercontent.com/a/ACg8ocIrhM9KVp7ezDPs0Jw-1FCPV4DHDUIWINh81cDxsPX7dw=s96-c?height=180&width=180"
+    },
+    {
+        "name": "shotamakino Makino",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "1 follower",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "python",
+            "go",
+            "typescript"
+        ],
+        "interests": [
+            "AR/VR",
+            "Blockchain",
+            "Gaming",
+            "IoT",
+            "Quantum",
+            "Robotic Process Automation",
+            "Cybersecurity",
+            "Design",
+            "Fintech",
+            "Machine Learning/AI",
+            "Mobile",
+            "Music/Art"
+        ]
+    },
+    {
+        "name": "ZixinxD Liu",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "2 achievements",
+        "team_status": "Has a team",
+        "skills": [
+            "python",
+            "c++",
+            "website",
+            "data-strucutres-and-algorithms",
+            "guitar"
+        ]
+    },
+    {
+        "name": "Lawrence Lao",
+        "title": "Product manager",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "product"
+        ],
+        "interests": [
+            "Robotic Process Automation"
+        ]
+    },
+    {
+        "name": "John Cocjin",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "1 follower",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "python"
+        ],
+        "interests": [
+            "Design",
+            "Education",
+            "Enterprise",
+            "Machine Learning/AI",
+            "Music/Art",
+            "Robotic Process Automation",
+            "Social Good"
+        ]
+    },
+    {
+        "name": "LAKSHMAN V REDDY",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "python",
+            "github",
+            "azure"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Brennan Stewart",
+        "title": "Full-stack developer",
+        "projects": "3 projects",
+        "followers": "0 followers",
+        "achievements": "8 achievements",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "javascript",
+            "react",
+            "next",
+            "css3",
+            "html5",
+            "vue",
+            "amazon-web-services",
+            "openai",
+            "tailwind",
+            "python",
+            "langchain",
+            "llamaindex"
+        ],
+        "interests": [
+            "AR/VR",
+            "Beginner Friendly",
+            "Blockchain",
+            "Communication",
+            "Cybersecurity",
+            "Databases",
+            "Design",
+            "E-commerce/Retail",
+            "Enterprise",
+            "Fintech",
+            "Health",
+            "IoT",
+            "Lifehacks",
+            "Machine Learning/AI",
+            "Mobile",
+            "Music/Art",
+            "Productivity",
+            "Quantum",
+            "Web",
+            "DevOps",
+            "Education",
+            "Gaming",
+            "Open Ended",
+            "Robotic Process Automation",
+            "Social Good",
+            "Voice skills"
+        ],
+        "bio": "Hello, my name is Brennan. I have been working with LlamaIndex and other RAG platforms to create robust chatbots and agentic tools. I would love to join a team using advanced RAG techniques provided by LlamaIndex to create something awesome. Skilled in RAG pipeline development and applying RAG to several verticals.",
+        "url": "https://devpost.com/505propz",
+        "img": "https://lh3.googleusercontent.com/a/AEdFTp7PssixKUmJVcOEwv8_OezKs8tnBc0EgIxTvPPN=s96-c?height=180&width=180"
+    },
+    {
+        "name": "Boquan Yin",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "2 achievements",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "react",
+            "javascript",
+            "python",
+            "django",
+            "vue",
+            "node.js",
+            "pytorch",
+            "llamaindex",
+            "langchain",
+            "llm",
+            "agent",
+            "fastapi",
+            "huggingface",
+            "machine-learning",
+            "deep-learning"
+        ],
+        "interests": [
+            "Design",
+            "DevOps",
+            "Education",
+            "Machine Learning/AI",
+            "Mobile",
+            "Web",
+            "AR/VR",
+            "Communication",
+            "Databases",
+            "Gaming",
+            "Low/No Code",
+            "Open Ended",
+            "Robotic Process Automation"
+        ],
+        "bio": "Looking for teammates familiar with LlamaIndex/Langchain and a variety of RAG retrieval & ingestion strategies. I can code both frontend (React + Next.js) and backend (FastAPI, Django, etc) as well as prompt engineering with langchain & llamaindex to build RAG pipeline and agentic solutions.",
+        "url": "https://devpost.com/toubatbrian",
+        "img": "https://lh3.googleusercontent.com/a/AATXAJyxXCoU5wq0HhsHvDTqRp_0aJLE_GAHV7Z5hrLh=s96-c?height=180&width=180"
+    },
+    {
+        "name": "yina qiao",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "ux",
+            "ui"
+        ],
+        "interests": [
+            "AR/VR",
+            "Beginner Friendly",
+            "Communication",
+            "Design"
+        ]
+    },
+    {
+        "name": "Raju Penmatcha",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "ml",
+            "llm",
+            "ai"
+        ],
+        "interests": [
+            "Machine Learning/AI",
+            "Low/No Code"
+        ],
+        "bio": "Looking for teammates that can code really well, or can build a functional UI. I code in Python (am a decent coder) and am a data scientist, have been working in ML since 2014 and in the AI/LLM space since one year. ex-AWS AI architect and product manager",
+        "url": "https://devpost.com/raju-film",
+        "img": "https://lh3.googleusercontent.com/a/ACg8ocLsfHQIBM30NqZoqSVMNrc3uFByrz1Jj_GNbq7TR5zn=s96-c?height=180&width=180"
+    },
+    {
+        "name": "Dongming Li",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "react",
+            "python"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Evan Grenda",
+        "title": "Product manager",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "openai"
+        ],
+        "interests": [
+            "Enterprise"
+        ]
+    },
+    {
+        "name": "Nik Shevchenko",
+        "title": "Full-stack developer",
+        "projects": "2 projects",
+        "followers": "1 follower",
+        "achievements": "4 achievements",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "product",
+            "management",
+            "marketing",
+            "nocode"
+        ],
+        "interests": [
+            "Lifehacks",
+            "Machine Learning/AI",
+            "Productivity",
+            "AR/VR",
+            "Beginner Friendly",
+            "Databases",
+            "Low/No Code"
+        ],
+        "bio": "Thiel fellow, raised $3m, built $52m company and sold it to toptal.com Let's build",
+        "url": "https://devpost.com/kodjima33",
+        "img": "https://graph.facebook.com/v3.3/678933066202417/picture?height=180&width=180"
+    },
+    {
+        "name": "Stanley Cai",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Jing Li",
+        "title": "Back-end developer",
+        "projects": "0 projects",
+        "followers": "1 follower",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "llm",
+            "python",
+            "machine-learning"
+        ],
+        "interests": [
+            "Beginner Friendly",
+            "Lifehacks",
+            "Open Ended",
+            "Productivity",
+            "Social Good"
+        ]
+    },
+    {
+        "name": "Vibhu Sapra",
+        "title": "ML / AI",
+        "projects": "2 projects",
+        "followers": "0 followers",
+        "achievements": "5 achievements",
+        "team_status": "Working solo",
+        "skills": [
+            "python",
+            "machine-learning",
+            "ai"
+        ],
+        "interests": [
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Laurie05 Luo",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team"
+    },
+    {
+        "name": "Qianhui (Gabrielle) Sun",
+        "title": "Business",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "instructionaldesign",
+            "django"
+        ],
+        "interests": [
+            "Beginner Friendly",
+            "Education",
+            "Machine Learning/AI"
+        ]
+    },
+    {
+        "name": "Sreenivasan A.C.",
+        "title": "Back-end developer",
+        "projects": "1 project",
+        "followers": "2 followers",
+        "achievements": "4 achievements",
+        "team_status": "Working solo",
+        "skills": [
+            "machine-learning",
+            "natural-language-processing",
+            "artificial-intelligence",
+            "python",
+            "javascript",
+            "coding",
+            "node.js",
+            "api"
+        ],
+        "interests": [
+            "Education",
+            "Machine Learning/AI",
+            "Productivity",
+            "Robotic Process Automation"
+        ]
+    },
+    {
+        "name": "Ch Abdullah Abdullah",
+        "title": "Data scientist",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "python",
+            "tensorflow",
+            "pytorch",
+            "opencv"
+        ],
+        "interests": [
+            "AR/VR",
+            "Beginner Friendly",
+            "Databases",
+            "Education",
+            "IoT",
+            "Machine Learning/AI",
+            "Robotic Process Automation",
+            "Web"
+        ]
+    },
+    {
+        "name": "Gabe Liu",
+        "title": "Back-end developer",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Looking for teammates",
+        "skills": [
+            "python",
+            "javascript",
+            "flutter",
+            "react",
+            "gcp",
+            "amazon-web-services",
+            "java"
+        ],
+        "interests": [
+            "Databases",
+            "Low/No Code",
+            "Machine Learning/AI",
+            "Mobile",
+            "Open Ended",
+            "Productivity",
+            "Social Good"
+        ],
+        "bio": "Experienced backend / data engineer, new to the world of LLM. Looking for teammates to hack together! Particularly interested in use cases related to gov tech and transportation.",
+        "url": "https://devpost.com/gl676c",
+        "img": "https://www.gravatar.com/avatar/294f07442beb2a998337cd8dcc47e9e2?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+    },
+    {
+        "name": "Leon Pan",
+        "title": "Full-stack developer",
+        "projects": "0 projects",
+        "followers": "1 follower",
+        "achievements": "1 achievement",
+        "team_status": "Has a team",
+        "skills": [
+            "database"
+        ],
+        "interests": [
+            "Databases",
+            "E-commerce/Retail",
+            "Health"
+        ]
+    },
+    {
+        "name": "Siva Udayamurthy",
+        "title": "Product manager",
+        "projects": "0 projects",
+        "followers": "0 followers",
+        "achievements": "1 achievement",
+        "team_status": "Working solo",
+        "skills": [
+            "english"
+        ],
+        "interests": [
+            "AR/VR",
+            "Blockchain",
+            "Beginner Friendly",
+            "Communication",
+            "Cybersecurity",
+            "Databases",
+            "Design",
+            "DevOps",
+            "E-commerce/Retail",
+            "Education",
+            "Enterprise",
+            "Fintech",
+            "Gaming",
+            "Health",
+            "IoT",
+            "Lifehacks",
+            "Low/No Code",
+            "Machine Learning/AI",
+            "Mobile",
+            "Music/Art",
+            "Open Ended",
+            "Productivity",
+            "Quantum",
+            "Robotic Process Automation",
+            "Social Good",
+            "Voice skills",
+            "Web"
+        ]
+    },   

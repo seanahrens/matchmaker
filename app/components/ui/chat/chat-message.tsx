@@ -44,10 +44,10 @@ export default function ChatMessage(chatMessage: Message) {
           {chatMessage.data && (
             <ChatMessageData messageData={chatMessage.data} />
           )}
-          <Markdown content={chatMessage.content} />
+          <Markdown content={formatMarkdown(chatMessage.content)} />
         </div>
         <Button
-          onClick={() => copyToClipboard(chatMessage.content)}
+          onClick={() => copyToClipboard(formatMarkdown(chatMessage.content))}
           size="icon"
           variant="ghost"
           className="h-8 w-8 opacity-0 group-hover:opacity-100"
@@ -62,3 +62,25 @@ export default function ChatMessage(chatMessage: Message) {
     </div>
   );
 }
+
+function formatMarkdown(text: string): string {
+  // Regex to match URLs that are not already formatted in Markdown
+  const urlRegex = /(?<!\!|\]\()((https?:\/\/)[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&:/~\+#]*[\w\-\@?^=%&/~\+#])?)/g;
+
+  // Function to determine if a URL is an image based on common image file extensions
+  const isImageUrl = (url: string): boolean => /\.(jpeg|jpg|gif|png|svg|webp)$/.test(url);
+
+  // Replace function that formats URLs
+  const replaceFn = (match: string, p1: string, offset: string, string: string): string => {
+      // If it's an image URL, format it to display as an image in Markdown
+      if (isImageUrl(match)) {
+          return `![Image](${match})`;
+      }
+      // Otherwise, format it as a clickable link in Markdown
+      return `[${match}](${match})`;
+  };
+
+  // Replace URLs in the text with Markdown format, skipping those already formatted
+  return text.replace(urlRegex, replaceFn);
+}
+
