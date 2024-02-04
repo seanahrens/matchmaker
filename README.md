@@ -6,7 +6,7 @@ To Run:
 ======
 - Navigate to the project directory
 - npm install
-- copy .env.example to .env.local and fill out your keys
+- copy .env.example to .env and fill out your keys
 - To (re)generate the vector storage out of the files in /data: npm run generate
 - To add more data, add files to /data
 - npm run dev
