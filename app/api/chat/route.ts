@@ -43,6 +43,7 @@ export async function POST(request: NextRequest) {
 
     const llm = new OpenAI({
       model: (process.env.MODEL as any) ?? "gpt-3.5-turbo",
+      maxTokens: 4000,
     });
 
     const chatEngine = await createChatEngine(llm);
