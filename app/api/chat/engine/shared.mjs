@@ -1,12 +1,8 @@
 export const STORAGE_DIR = "./data";
-export const CHUNK_SIZE = 250;
-export const CHUNK_OVERLAP = 125;
+export const CHUNK_SIZE = 500;
+export const CHUNK_OVERLAP = 250;
 
 const REQUIRED_ENV_VARS = [
-  // "MONGO_URI",
-  // "MONGODB_DATABASE",
-  // "MONGODB_VECTORS",
-  // "MONGODB_VECTOR_INDEX",
   "ASTRA_DB_ENDPOINT",
   "ASTRA_DB_APPLICATION_TOKEN",
 ];

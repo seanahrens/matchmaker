@@ -7,7 +7,7 @@ export default function Home() {
       <div className="text-center space-y-4">
 
         <img src="/mark.jpg" className="rounded-lg mx-auto"/>
-        <h1 className="text-4xl font-bold text-white">Mark the Hack-a-thon Matchmaker</h1>
+        <h1 className="text-4xl font-bold text-white">MarkAI, the Hack-a-thon Matchmaker</h1>
         <p className="text-xl text-gray-200">Find project hack-a-thon and startup project collaborators.</p>
       </div>
       <ChatSection />
